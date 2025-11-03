@@ -3,7 +3,7 @@ Note: Figure 7 code requires these latest executables to run properly.<br>
 
 #### Executable files are:
 
-* **cmac6109x64.exe** - Windows version
+* **cmac6109x64.exe** - Windows / Intel version
 
 * **cmac6109xM1** - macOs with Apple CPU
 
