@@ -3,11 +3,11 @@ Note: Figure 7 code requires these latest executables to run properly.<br>
 
 #### Executable files are:
 
-cmac6109x64.exe - Windows version
+* **cmac6109x64.exe** - Windows version
 
-cmac6109xM1 - macOs with Apple CPU
+* **cmac6109xM1** - macOs with Apple CPU
 
-cmac6109x86 - macOS with Intel CPU
+* **cmac6109x86** - macOS with Intel CPU
 
 Do **not** directly execute any code in this folder: go directly to Figure folders in the parent repository folder.<br>
 
